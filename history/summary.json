@@ -40,18 +40,20 @@
     "url": "https://store.noclocks.dev",
     "icon": "https://icons.duckduckgo.com/ip3/store.noclocks.dev.ico",
     "slug": "online-store",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 233,
-    "timeDay": 231,
-    "timeWeek": 186,
-    "timeMonth": 233,
-    "timeYear": 233,
-    "dailyMinutesDown": {}
+    "time": 232,
+    "timeDay": 226,
+    "timeWeek": 190,
+    "timeMonth": 232,
+    "timeYear": 232,
+    "dailyMinutesDown": {
+      "2024-09-09": 0
+    }
   },
   {
     "name": "Development Store",
