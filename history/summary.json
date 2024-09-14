@@ -60,18 +60,20 @@
     "url": "https://devstore.noclocks.dev",
     "icon": "https://icons.duckduckgo.com/ip3/devstore.noclocks.dev.ico",
     "slug": "development-store",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 251,
-    "timeDay": 250,
-    "timeWeek": 247,
-    "timeMonth": 251,
-    "timeYear": 251,
-    "dailyMinutesDown": {}
+    "time": 249,
+    "timeDay": 219,
+    "timeWeek": 240,
+    "timeMonth": 249,
+    "timeYear": 249,
+    "dailyMinutesDown": {
+      "2024-09-14": 0
+    }
   },
   {
     "name": "Blog",
