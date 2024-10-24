@@ -1,7 +1,7 @@
 url: https://store.noclocks.dev
-status: up
-code: 200
-responseTime: 328
-lastUpdated: 2024-10-24T23:13:48.654Z
+status: down
+code: 503
+responseTime: 205
+lastUpdated: 2024-10-24T23:30:20.326Z
 startTime: 2024-08-15T02:04:02.329Z
 generator: Upptime <https://github.com/upptime/upptime>
